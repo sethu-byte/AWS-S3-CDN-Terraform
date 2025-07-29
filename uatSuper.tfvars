@@ -1,8 +1,8 @@
-aws_s3_bucket = "uatsuper.jabri.co"
+aws_s3_bucket = "YourS3-Bucket"
 
-cloudfront_name = ["uatsuper.jabri.co"]
+cloudfront_name = ["YourS3-Bucket"]
 
-commentofcloudfront = "uatsuper.jabri.co"
+commentofcloudfront = "YourS3-Bucket"
 
-tag_of_cloudfront   = "uatsuper.jabri.co"
-s3_origin_acessname = "uatsuper.jabri.co"
+tag_of_cloudfront   = "YourS3-Bucket"
+s3_origin_acessname = "YourS3-Bucket"
